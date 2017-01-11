@@ -14,6 +14,7 @@ public class MyMain {
 		{
 			System.out.println(" this area not reachable");
 		}
+		System.out.println ("this is it test");
 	}
 
 }
