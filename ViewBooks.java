@@ -29,7 +29,7 @@ public class ViewBooks extends JFrame {
 		});
 	}
 
-	/**
+	/*
 	 * Create the frame.
 	 */
 	public ViewBooks() {
