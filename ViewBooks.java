@@ -29,8 +29,8 @@ public class ViewBooks extends JFrame {
 		});
 	}
 
-	/*
-	 * Create the frame. pppoio
+	/**
+	 * Create the frame. o
 	 */
 	public ViewBooks() {
 		setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
