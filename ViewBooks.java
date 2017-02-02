@@ -30,7 +30,7 @@ public class ViewBooks extends JFrame {
 	}
 
 	/**
-	 * Create the frame. oklfgrtr
+	 * Create the frame. oklfgrtr**
 	 */
 	public ViewBooks() {
 		setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
